@@ -37,8 +37,29 @@ p.b {
 
 h3 {
     position: absolute;
-    font-size: 65px;
+    font-size: 50px;
     top: 50%;
     left: 17%;
-    font-weight: bold;
+}
+
+p.c {
+    position: absolute;
+    font-size: 32px;
+    top: 60%;
+    left: 17%;
+    line-height: 1.0;  
+}
+
+h4 {
+    position: absolute;
+    font-size: 50px;
+    top: 70%;
+    left: 17%;
+}
+
+h5 {
+    position: absolute;
+    font-size: 60px;
+    top: 70%;
+    left: 17%;
 }
