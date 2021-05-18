@@ -1,2 +1,2 @@
-# piyaphatliamwilai.github.io
-A random HTML website
+# Website :)
+My personal website, used just for learning HTML
